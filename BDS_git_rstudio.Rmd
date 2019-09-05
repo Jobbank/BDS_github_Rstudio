@@ -7,7 +7,7 @@ output: ioslides_presentation
 
 ## History
 
-Blablabla
+Blablabla bla bla bla
 
 ## How to install
 
